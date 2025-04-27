@@ -32,9 +32,9 @@ cd "Petitions SPA"
 
 `npm run install-all`
 
-This command installs dependencies for the root project the client, and the server.
+This command installs dependencies for the root project, the client, and the server.
 
-1. Running the Application
+3. Running the Application
 Start both the client and server with a single command:
 
 `npm start`
